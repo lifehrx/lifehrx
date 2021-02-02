@@ -31,15 +31,14 @@
 #### 手机设备
 [![](https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=Android&logoColor=ffffff)](https://www.vivo.com/)
 
-#### IT技能
+#### 🛠 技术栈 | Tech Stack
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Docker-1488C6?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
-
 [![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
 
 
 #### 游戏
