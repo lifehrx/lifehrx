@@ -43,7 +43,7 @@
 [![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://simpleicons.org/)
 #### 🛠 开发工具 | Tools
-[![](https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)](https://simpleicons.org/)
 
