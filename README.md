@@ -41,15 +41,17 @@
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Docker-1488C6?style=flat-square&logo=Docker&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-ApacheJMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=ApacheJMeter&logoColor=ffffff)](https://simpleicons.org/)
+
 
 
 #### 🛠 开发工具 | Tools
-[![](https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://simpleicons.org/)
 
