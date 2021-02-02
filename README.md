@@ -41,7 +41,6 @@
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://simpleicons.org/)
-
 [![](https://img.shields.io/badge/-Docker-1488C6?style=flat-square&logo=Docker&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://simpleicons.org/)
