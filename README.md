@@ -33,6 +33,9 @@
 
 #### 🛠 技术栈 | Tech Stack
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://reactjs.org/)
+
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Docker-1488C6?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
