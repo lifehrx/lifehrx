@@ -26,9 +26,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lifehrx.readme)
 
 #### 操作系统 | OS
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/OS-Arch%20Windows-0078D6?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/OS-Arch%20macOS-000000?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=Red Hat&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.vivo.com/)
+
 
 #### 手机设备
 [![](https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=Android&logoColor=ffffff)](https://www.vivo.com/)
@@ -42,10 +43,13 @@
 [![](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Apache JMeter-D22128?style=flat-square&logo=Apache JMeter&logoColor=ffffff)](https://simpleicons.org/)
+
+
 #### 🛠 开发工具 | Tools
-[![](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://simpleicons.org/)
 
 #### 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
