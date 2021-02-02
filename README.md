@@ -27,11 +27,12 @@
 [![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=ffffff)](https://simpleicons.org/)
+
 
 
 #### 🔧开发工具 | Tools
 [![](https://img.shields.io/badge/-IntelliJ&nbsp;IDEA-000000?style=flat-square&logo=IntelliJ&nbsp;IDEA&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=ffffff)](https://simpleicons.org/)
