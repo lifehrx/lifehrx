@@ -55,13 +55,7 @@
 [![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion;&logoColor=ffffff)](https://simpleicons.org/)
 
 
-
-#### 🛠 开发工具 | Tools
+#### 🔧开发工具 | Tools
 [![](https://img.shields.io/badge/-IntelliJ&nbsp;IDEA-000000?style=flat-square&logo=IntelliJ&nbsp;IDEA&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://simpleicons.org/)
-
-#### 游戏
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-
-
