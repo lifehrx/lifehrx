@@ -34,7 +34,7 @@
 #### IT技能
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=yellow)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-orcale-007396?style=flat-square&logo=orcale&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
 
 #### 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
