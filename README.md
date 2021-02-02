@@ -16,14 +16,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lifehrx.readme)
 -->
 
-#### 🔭 I’m currently working on : Sinopec Zhenhai And Hainan
+#### 🔭 I’m currently working on : Sinopec Zhenhai
 #### 🌱 I’m currently learning : VUE
-#### 👯 I’m looking to collaborate on :
-#### 🤔 I’m looking for help with :
-#### 💬 Ask me about :
 #### 📫 How to reach me: lifehrx@gmail.com
-#### 😄 Pronouns: 
-#### ⚡ Fun fact: 
+
 
 ![info](https://github-readme-stats.vercel.app/api?username=lifehrx&show_icons=true&count_private=true&hide=prs&theme=dark)
 
