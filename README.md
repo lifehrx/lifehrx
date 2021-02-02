@@ -11,6 +11,9 @@
 ### 📫 How to reach me: 
 ### 😄 Pronouns: 
 ### ⚡ Fun fact: 
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+#### mac卡片
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)]
 -->
 
 #### 🔭 I’m currently working on : Sinopec Zhenhai
@@ -22,10 +25,11 @@
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=lifehrx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://visitor-badge.glitch.me/badge?page_id=lifehrx.readme)
 
-#### linux卡片
+#### 操作系统 | OS
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-#### mac卡片
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+[![](https://img.shields.io/badge/OS-Arch%20Windows-0078D6?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/OS-Arch%20macOS-000000?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+
 #### 手机设备
 [![](https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=Android&logoColor=ffffff)](https://www.vivo.com/)
 #### 🛠 技术栈 | Tech Stack
@@ -38,9 +42,12 @@
 [![](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://simpleicons.org/)
-
+#### 🛠 开发工具 | Tools
+[![](https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)](https://simpleicons.org/)
 
 #### 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
 
