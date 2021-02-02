@@ -29,14 +29,17 @@
 #### 手机设备
 [![](https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=Android&logoColor=ffffff)](https://www.vivo.com/)
 #### 🛠 技术栈 | Tech Stack
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Docker-1488C6?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Oracle&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Docker-1488C6?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://simpleicons.org/)
+
+
 #### 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
