@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![info](https://github-readme-stats.vercel.app/api?username=lifehrx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=lifehrx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://visitor-badge.glitch.me/badge?page_id=lifehrx.readme)
+-->
+
+![info](https://github-readme-stats.vercel.app/api?username=lifehrx&show_icons=true&count_private=true&hide=prs&theme=dark)
+
