@@ -39,6 +39,9 @@
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://simpleicons.org/)
+
 [![](https://img.shields.io/badge/-Docker-1488C6?style=flat-square&logo=Docker&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://simpleicons.org/)
@@ -48,7 +51,8 @@
 [![](https://img.shields.io/badge/-ApacheJMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-C&#43;&#43;-00599C?style=flat-square&logo=C&#43;&#43;&logoColor=ffffff)](https://simpleicons.org/)
-
+[![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git;&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion;&logoColor=ffffff)](https://simpleicons.org/)
 
 
 
