@@ -29,12 +29,12 @@
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
 #### 手机设备
-[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=vivo&logoColor=ffffff)](https://www.vivo.com/)
+[![](https://img.shields.io/badge/vivo-f5010c?style=flat-square&logo=vivo&logoColor=ffffff)](https://www.vivo.com/)
 
 #### IT技能
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=springboot&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=orcale&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-springboot?style=flat-square&logo=springboot&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-orcale-007396?style=flat-square&logo=orcale&logoColor=ffffff)](https://reactjs.org/)
 
 #### 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
