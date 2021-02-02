@@ -5,9 +5,6 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=lifehrx&show_icons=true&count_private=true&hide=prs&theme=dark)
 
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=lifehrx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://visitor-badge.glitch.me/badge?page_id=lifehrx.readme)
-
 #### 操作系统 | OS
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.vivo.com/)
