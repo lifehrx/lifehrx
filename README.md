@@ -51,7 +51,7 @@
 
 
 #### 🛠 开发工具 | Tools
-[![](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://simpleicons.org/)
 
