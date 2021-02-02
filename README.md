@@ -33,7 +33,7 @@
 
 #### IT技能
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-springboot?style=flat-square&logo=springboot&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=yellow)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-orcale-007396?style=flat-square&logo=orcale&logoColor=ffffff)](https://reactjs.org/)
 
 #### 游戏
