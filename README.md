@@ -47,6 +47,8 @@
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-ApacheJMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)](https://simpleicons.org/)
+
 
 
 
