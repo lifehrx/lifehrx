@@ -28,10 +28,10 @@
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-ApacheJMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git;&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion;&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-ApacheJMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=ffffff)](https://simpleicons.org/)
 
 
 #### 🔧开发工具 | Tools
