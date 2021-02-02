@@ -26,9 +26,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lifehrx.readme)
 
 #### 操作系统 | OS
-[![](https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=Red Hat&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=ffffff)](https://www.archlinux.org/)
+
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.vivo.com/)
+[![](https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=RedHat&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=ffffff)](https://www.archlinux.org/)
 
 
 #### 手机设备
@@ -37,13 +39,13 @@
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-Docker-1488C6?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Docker-1488C6?style=flat-square&logo=Docker&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Oracle&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-Apache JMeter-D22128?style=flat-square&logo=Apache JMeter&logoColor=ffffff)](https://simpleicons.org/)
+[![](https://img.shields.io/badge/-ApacheJMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=ffffff)](https://simpleicons.org/)
 
 
 #### 🛠 开发工具 | Tools
