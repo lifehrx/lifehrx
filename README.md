@@ -13,6 +13,7 @@
 
 #### 手机设备
 [![](https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=Android&logoColor=ffffff)](https://www.vivo.com/)
+
 #### 🛠 技术栈 | Tech Stack
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://simpleicons.org/)
@@ -28,7 +29,6 @@
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-ApacheJMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=ffffff)](https://simpleicons.org/)
 
 
 #### 🔧开发工具 | Tools
