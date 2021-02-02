@@ -26,12 +26,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lifehrx.readme)
 
 #### 操作系统 | OS
-
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.vivo.com/)
 [![](https://img.shields.io/badge/Red&nbsp;Hat-EE0000?style=flat-square&logo=Red&nbsp;Hat&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/mac&nbsp;OS-000000?style=flat-square&logo=mac&nbsp;OS&logoColor=ffffff)](https://www.archlinux.org/)
-
 
 #### 手机设备
 [![](https://img.shields.io/badge/Android-A4C639?style=flat-square&logo=Android&logoColor=ffffff)](https://www.vivo.com/)
@@ -49,7 +47,6 @@
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-ApacheJMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://simpleicons.org/)
-[![](https://img.shields.io/badge/-C&#43;&#43;-00599C?style=flat-square&logo=C&#43;&#43;&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git;&logoColor=ffffff)](https://simpleicons.org/)
 [![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion;&logoColor=ffffff)](https://simpleicons.org/)
 
