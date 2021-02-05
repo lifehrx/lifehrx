@@ -5,6 +5,10 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=lifehrx&show_icons=true&count_private=true&hide=prs&theme=dark)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lifehrx&layout=compact&theme=material-palenight" />
+
 #### 操作系统 | OS
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.vivo.com/)
