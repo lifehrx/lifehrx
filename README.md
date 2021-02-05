@@ -6,7 +6,7 @@
 <!--![info](https://github-readme-stats.vercel.app/api?username=lifehrx&show_icons=true&count_private=true&hide=prs&theme=material-palenight)-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lifehrx&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lifehrx&layout=compact&theme=dark" />
 
 #### 操作系统 | OS
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
