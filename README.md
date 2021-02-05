@@ -1,5 +1,5 @@
 
-#### 🔭 I’m currently working on : Sinopec Zhenhai
+#### 🔭 I’m currently working on : Sinopec Zhenhai Refining 
 #### 🌱 I’m currently learning : VUE
 #### 📫 How to reach me: lifehrx@gmail.com
 
