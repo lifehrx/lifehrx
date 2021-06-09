@@ -11,8 +11,8 @@
 #### 操作系统 | OS
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.vivo.com/)
-<!-- [![](https://img.shields.io/badge/Red&nbsp;Hat-EE0000?style=flat-square&logo=Red&nbsp;Hat&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/mac&nbsp;OS-000000?style=flat-square&logo=mac&nbsp;OS&logoColor=ffffff)](https://www.archlinux.org/) -->
+[![](https://img.shields.io/badge/Red&nbsp;Hat-EE0000?style=flat-square&logo=Red&nbsp;Hat&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/mac&nbsp;OS-000000?style=flat-square&logo=mac&nbsp;OS&logoColor=ffffff)](https://www.archlinux.org/)
 
 #### 🛠 技术栈 | Tech Stack
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://simpleicons.org/)
